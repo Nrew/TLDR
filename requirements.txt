@@ -1,0 +1,6 @@
+numpy
+tensorflow[and-cuda]
+scikit-learn
+nltk
+matplotlib
+pandas
